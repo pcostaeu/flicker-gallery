@@ -1,6 +1,6 @@
 ## FlickerGallery
 
-Android MVVM example with Clean Architecture
+Android MVVM example
 
 Libraries used:
 * Koin (Service locator)
